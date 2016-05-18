@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ECHO Registration</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="settings">Settings</string>
+    <string name="register_OK">Unit Registered</string>
+    <string name="register_NG">Registration Error</string>
+</resources>

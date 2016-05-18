@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="My Garage"/>
+    <group android:checkableBehavior="single">
+        <item android:title="PB-250LN"/>
+        <item android:title="SRM-225"/>
+        <item android:title="CS-310"/>
+        <item android:title="TC-210"/>
+    </group>
+</menu>
